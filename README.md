@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma1heus&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Olá, sou o Matheus. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá, sou o Matheus <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim :wink:
 <div style="display: inline_block">
