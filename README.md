@@ -10,7 +10,7 @@
 <div style="display: inline_block">
   <p> - :computer: I am currently a computer science student. :computer_mouse:</p>
   <p> - :mag_right: I'm very curious, so maybe I'll keep learning new things. :mag:</p>
-  <p> - :page_facing_up: Knowledge in: HTML, CSS, Python, C and Pascal. :bookmark_tabs:</p>
+  <p> - :page_facing_up: Knowledge in: HTML, CSS, Python, C and JavaScript. :bookmark_tabs:</p>
   <p> - :cake: I like a candy, if you want to win me over, let it be with a pudding! :custard:</p>
 </div>
 
