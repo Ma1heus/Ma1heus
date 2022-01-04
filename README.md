@@ -6,7 +6,7 @@
 
 ## Hello! I am Matheus <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### About me :wink:
+### About me
 <div style="display: inline_block">
   <p> - :computer: I am currently a computer science student. :computer_mouse:</p>
   <p> - :mag_right: I'm very curious, so maybe I'll keep learning new things. :mag:</p>
@@ -31,7 +31,7 @@
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
     
-## My contacts :iphone:
+## My contacts
 <div align="center">
   <a>
       <a href="https://www.linkedin.com/in/matheus-rodrigues-o-ambicioso-em-programacao-e-tecnologia/">
