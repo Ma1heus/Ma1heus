@@ -40,19 +40,7 @@
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
     
-## My contacts
-<br>
-<div align="center">
-  <a>
-      <a href="https://www.linkedin.com/in/matheus-rodrigues-o-ambicioso-em-programacao-e-tecnologia/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/matheus-rodrigues-o-ambicioso-em-programacao-e-tecnologia/"
-     </a>
-      <a href="mailto:rod.luzmatheus@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rod.luzmatheus@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-</div>  
+ 
   
  ## Total visits to my profile. <br>
   <br>
