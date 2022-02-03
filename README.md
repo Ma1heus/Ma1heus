@@ -5,6 +5,7 @@
   <p> ◉ :computer: I am currently a computer science student. :computer_mouse:</p>
   <p> ◉ :page_facing_up: Knowledge in: HTML, CSS, Python, C and JavaScript. :bookmark_tabs:</p>
   <p> ◉ :man_technologist: I'm open to proposals and requests for the creation of websites, systems and programs development. :man_technologist:</p>
+  <p> ◉ :email: My email: matheusrodriguesluz0@gmail.com :email:</p>
   <p> ◉ :mag_right: I'm very curious, so maybe I'll keep learning new things. :mag:</p>
   <p> ◉ :cake: I like a candy, if you want to win me over, let it be with a pudding! :custard:</p>
 </div>
