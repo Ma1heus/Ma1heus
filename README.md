@@ -2,7 +2,7 @@
 
 ### About me
 <div style="display: inline_block">
-  <p> ◉  I am currently a computer science student. </p>
+  <p> ◉  I am currently a BYU-Pathway student. </p>
   <p> ◉  Knowledge in: HTML, CSS, Python, C and JavaScript. </p>
   <p> ◉  I'm open to proposals and requests for the creation of websites, systems and programs development. </p>
   <p> ◉  My email: matheusrodriguesluz0@gmail.com </p>
