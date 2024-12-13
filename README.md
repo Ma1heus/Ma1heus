@@ -5,7 +5,7 @@
   <p> ◉  I am currently a BYU-Pathway student. </p>
   <p> ◉  Knowledge in: HTML, CSS, Python, C and JavaScript. </p>
   <p> ◉  I'm open to proposals and requests for the creation of websites, systems and programs development. </p>
-  <p> ◉  My email: matheusrodriguesluz0@gmail.com </p>
+  <p> ◉  My email: rod.luzmatheus@gmail.com </p>
   <p> ◉  I'm very curious, so maybe I'll keep learning new things. </p>
   <p> ◉  I like a candy, if you want to win me over, let it be with a pudding! </p>
 </div>
