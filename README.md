@@ -6,8 +6,6 @@
 - 🚀 Open to **freelance projects and collaborations** in web development and software development.  
 - 📩 Contact me: **rod.luzmatheus@gmail.com**  
 - 🎓 A **lifelong learner**, always exploring new technologies.  
-- 🍮 I love sweets! If you want to win me over, pudding is the way!  
-
 
 ##
 <br>
