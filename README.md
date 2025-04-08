@@ -1,61 +1,58 @@
-## What's UP! I'm Matheus <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
+# What's UP! I'm Matheus <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
 
-### About Me  
+**`FullStack Developer`**
+
 - 👨‍🎓 I am currently a **BYU-Pathway** student.  
-- 💻 Knowledge in: **HTML, CSS, Python, C, and JavaScript**.  
+- 💻 Knowledge in: **HTML, CSS, JavaScript, and Python**.  
 - 🚀 Open to **freelance projects and collaborations** in web development and software development.  
-- 📩 Contact me: **rod.luzmatheus@gmail.com**  
-- 🎓 A **lifelong learner**, always exploring new technologies.  
-
-##
-<br>
-
-
-<div align="center">
-  <a href="https://github.com/Ma1heus">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ma1heus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-         height="180px" width="48%" style="min-width: 300px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma1heus&layout=compact&langs_count=7&theme=tokyonight" 
-         height="180px" width="48%" style="min-width: 300px;"/>
+- 🎓 A **lifelong learner**, always exploring new technologies.
+  
+<br/>
+<p  align="left">
+  <img alt="rod.luzmatheus@gmail.com" title="email" src="https://custom-icon-badges.demolab.com/badge/-rod.luzmatheus@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" />
+  <a href="www.linkedin.com/in/matheusluzrodrigues/" target="_blank">
+    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</p>
 
+---
 
+## 🚀 My Skills 
 
-## My Skills  
-<br>
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%; max-width: 600px; gap: 20px;">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  </div>
+<div>
+  <img align="left" alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> 
+  <img align="left" alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="left" alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="left" alt="Bootstrap" title="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+  <img align="left" alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="left" alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>  
+<br/><br/>
 
-## Skills I'm Studying / Want to Study  
-<br>
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%; max-width: 600px; gap: 20px;">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-    <img style="flex-grow: 1; max-width: 100px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  </div>
-</div>
-  
-  
-  
- ## Total visits to my profile. <br>
-  <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Ma1heus/count.svg" />
- </p>
+
+## 📊 Status
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: dark)" height="180px" width="48%" style="min-width: 300px;"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height="180px" width="48%" style="min-width: 300px;"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma1heus&layout=compact&langs_count=7&theme=radical"
+    media="(prefers-color-scheme: dark)" height="180px" width="48%" style="min-width: 300px;"
+  />
+  <source
+    srcset=="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma1heus&layout=compact&langs_count=7&theme=tokyonight"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height="180px" width="48%" style="min-width: 300px;"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
