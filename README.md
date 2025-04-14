@@ -1,24 +1,18 @@
 # What's UP! I'm Matheus <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
 
-**`FullStack Developer`**
+**`FullStack Developer`** **`Musician`**
 
-- 👨‍🎓 I am currently a **BYU-Pathway** student.  
+- 👨‍🎓 I am currently a **BYU-Pathway** student.
+- us Wanna talk in **English**? I do!  
 - 💻 Knowledge in: **HTML, CSS, JavaScript, and Python**.  
 - 🚀 Open to **freelance projects and collaborations** in web development and software development.  
 - 🎓 A **lifelong learner**, always exploring new technologies.
-  
-<br/>
-<p  align="left">
-  <img alt="rod.luzmatheus@gmail.com" title="email" src="https://custom-icon-badges.demolab.com/badge/-rod.luzmatheus@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" />
-  <a href="www.linkedin.com/in/matheusluzrodrigues/" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
----
+#
 
-## 🚀 My Skills 
-
+### 🚀 My Skills and Knoledges
+</br>
+ 
 <div>
   <img align="left" alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> 
   <img align="left" alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -27,12 +21,11 @@
   <img align="left" alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img align="left" alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="left" alt="VsCode" title="VsCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>  
 <br/><br/>
 
-
-## 📊 Status
-
+#
 
 <picture>
   <source
@@ -56,3 +49,13 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Ma1heus&show_icons=true" />
 </picture>
+</br>
+
+#
+
+<p  align="left">
+  <img alt="rod.luzmatheus@gmail.com" title="email" src="https://custom-icon-badges.demolab.com/badge/-rod.luzmatheus@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" />
+  <a href="www.linkedin.com/in/matheusluzrodrigues/" target="_blank">
+    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
