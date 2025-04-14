@@ -3,7 +3,7 @@
 **`FullStack Developer`** **`Musician`**
 
 - 👨‍🎓 I am currently a **BYU-Pathway** student.
-- us Wanna talk in **English**? I do!  
+- 🗣️ Wanna talk in **English**? I do!  
 - 💻 Knowledge in: **HTML, CSS, JavaScript, and Python**.  
 - 🚀 Open to **freelance projects and collaborations** in web development and software development.  
 - 🎓 A **lifelong learner**, always exploring new technologies.
