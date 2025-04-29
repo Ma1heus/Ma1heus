@@ -4,7 +4,8 @@
 
 - 👨‍🎓 I am currently a **BYU-Pathway** student.
 - 🗣️ Wanna talk in **English**? I do!  
-- 💻 Knowledge in: **HTML, CSS, JavaScript, and Python**.  
+- 💻 Knowledge in: **HTML, CSS, JavaScript, and Python**.
+- ☁️ **AWS re-Start** | Cloud Computing
 - 🚀 Open to **freelance projects and collaborations** in web development and software development.  
 - 🎓 A **lifelong learner**, always exploring new technologies.
 
