@@ -10,7 +10,7 @@
 
 #
 
-### 🚀 My Skills and Knoledges
+### 🚀 My Skills and Knowledges
 </br>
  
 <div>
