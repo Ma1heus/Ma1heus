@@ -1,6 +1,6 @@
 # What's UP! I'm Matheus <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
 
-**`FullStack Developer`** **`Musician`**
+**`Front-End Developer`** **`Musician`**
 
 - 👨‍🎓 I am currently a **BYU-Pathway** student.
 - 🗣️ Wanna talk in **English**? I do!  
