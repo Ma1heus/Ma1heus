@@ -1,11 +1,11 @@
 # What's UP! I'm Matheus <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
 
-**`Front-End Developer`** **`Musician`**
+**`Front-End Developer`** **`Musician`** **`Fluent English`**
 
 - 👨‍🎓 I am currently a **BYU-Pathway** student.
 - 🗣️ Wanna talk in **English**? I do!  
 - 💻 Knowledge in: **HTML, CSS, JavaScript, and Python**.
-- ☁️ **AWS re-Start** | Cloud Computing
+- 💬 **Bilingual Customer Service Agent** | Foundever
 - 🚀 Open to **freelance projects and collaborations** in web development and software development.  
 - 🎓 A **lifelong learner**, always exploring new technologies.
 
