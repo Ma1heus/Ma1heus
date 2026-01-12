@@ -28,32 +28,6 @@
 
 #
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ma1heus&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)" height="180px" width="48%" style="min-width: 300px;"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ma1heus&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height="180px" width="48%" style="min-width: 300px;"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma1heus&layout=compact&langs_count=7&theme=radical"
-    media="(prefers-color-scheme: dark)" height="180px" width="48%" style="min-width: 300px;"
-  />
-  <source
-    srcset=="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma1heus&layout=compact&langs_count=7&theme=tokyonight"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height="180px" width="48%" style="min-width: 300px;"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ma1heus&show_icons=true" />
-</picture>
-</br>
-
-#
-
 <p  align="left">
   <img alt="rod.luzmatheus@gmail.com" title="email" src="https://custom-icon-badges.demolab.com/badge/-rod.luzmatheus@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" />
   <a href="www.linkedin.com/in/matheusluzrodrigues/" target="_blank">
