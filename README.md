@@ -1,36 +1,48 @@
-# What's UP! I'm Matheus <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
+# Hey there! 👋 I'm Matheus  
+**`Software Development`** **`English/Portuguese`** **`Python`** **`C#`**
 
-**`Front-End Developer`** **`Musician`** **`Fluent English`**
+### 🚀 Front-End Developer | Musician | Fluent in English  
 
-- 👨‍🎓 I am currently a **BYU-Pathway** student.
-- 🗣️ Wanna talk in **English**? I do!  
-- 💻 Knowledge in: **HTML, CSS, JavaScript, and Python**.
-- 💬 **Bilingual Customer Service Agent** | Foundever
-- 🚀 Open to **freelance projects and collaborations** in web development and software development.  
-- 🎓 A **lifelong learner**, always exploring new technologies.
+---
 
-#
+## 👨‍💻 About Me
 
-### 🚀 My Skills and Knowledges
-</br>
- 
-<div>
-  <img align="left" alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> 
-  <img align="left" alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="left" alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="left" alt="Bootstrap" title="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-  <img align="left" alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img align="left" alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="left" alt="VsCode" title="VsCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>  
-<br/><br/>
+- 🎓 Currently a **BYU-Pathway Worldwide** student  
+- 💼 **Bilingual Customer Service Agent** at **Foundever**  
+- 🌎 Fluent in **English & Portuguese**  
+- 💻 Skilled in **HTML, CSS, JavaScript, C#, and Python**  
+- 🚀 Open to **freelance projects & collaborations**  
+- 📚 A lifelong learner passionate about technology and problem-solving  
 
-#
+---
 
-<p  align="left">
-  <img alt="rod.luzmatheus@gmail.com" title="email" src="https://custom-icon-badges.demolab.com/badge/-rod.luzmatheus@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" />
-  <a href="www.linkedin.com/in/matheusluzrodrigues/" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+## 🛠️ Tech Stack
+
+<table align="center">
+    <td><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></td>
+    <td><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></td>
+    <td><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></td>
+    <td><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></td>
+    <td><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></td>
+    <td><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></td>
+    <td><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></td>
+    <td><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></td>
+    <td><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></td>
+</table>
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:rod.luzmatheus@gmail.com">
+    <img alt="Email" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mention&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheusluzrodrigues/" target="_blank">
+    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
+
+⭐ *“Building solutions, learning every day, and turning ideas into reality.”*
