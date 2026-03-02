@@ -41,6 +41,9 @@
   <a href="https://www.linkedin.com/in/matheusluzrodrigues/" target="_blank">
     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+ <a href="https://www.instagram.com/matheus_luzro/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
