@@ -1,5 +1,5 @@
 # Hey there! 👋 I'm Matheus  
-**`Software Development`** **`English/Portuguese`** **`Python`** **`C#`**
+**`Software Development`** **`English/Portuguese`** **`Python`** **`C#`** **`JavaScript`**
 
 ### 🚀 Front-End Developer | Musician | Fluent in English  
 
