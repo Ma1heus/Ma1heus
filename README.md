@@ -8,7 +8,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 Currently a **BYU-Pathway Worldwide** student  
-- 💼 **Bilingual Customer Service Agent** at **Foundever**  
 - 🌎 Fluent in **English & Portuguese**  
 - 💻 Skilled in **HTML, CSS, JavaScript, C#, and Python**  
 - 🚀 Open to **freelance projects & collaborations**  
